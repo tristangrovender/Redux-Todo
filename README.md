@@ -31,6 +31,7 @@ Topics:
 * Your application's state tree should have a single property called `todos`. It should take the same form as the object shown below.
 
 
+
 ```
 {
  todos: []
